@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Automatizador de geração de videos para youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volthier/video-maker.git"
+  },
+  "author": "volthier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volthier/video-maker/issues"
+  },
+  "homepage": "https://github.com/volthier/video-maker#readme"
+}
